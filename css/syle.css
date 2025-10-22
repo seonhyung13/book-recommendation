@@ -1,0 +1,25 @@
+.bg-gray {
+  background-color: #000000; /* สีเทาอ่อน */
+}
+.font-playpen-bold {
+  font-family: 'Playpen Sans Thai', sans-serif;
+  font-weight: 700;
+}
+.athiti-font {
+  font-family: 'Athiti', sans-serif;
+}
+.font-pei {
+  color: #F0FFF0;
+}
+.text-color {
+  color: #019B59; /* green*/
+}
+.message-box {
+      background-color: #FAF5D7; /* สีพื้นหลังกล่อง */
+      height: 200px;              /* ความกว้างกล่อง */
+
+    
+    }
+    .whitesmoke-bg {
+  background-color: #F5F5F5;
+}
