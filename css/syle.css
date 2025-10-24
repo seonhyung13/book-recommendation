@@ -15,9 +15,9 @@
   color: #019B59; /* green*/
 }
 .message-box {
-      background-color: #FAF5D7; /* สีพื้นหลังกล่อง */
-      height: 200px;              /* ความกว้างกล่อง */
-
+      background-color: #000000; /* สีพื้นหลังกล่อง */
+      height: 280px;              /* ความกว้างกล่อง */
+      
     
     }
     .whitesmoke-bg {
